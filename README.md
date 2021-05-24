@@ -1,0 +1,2 @@
+# yolov3_SeaShip_Trash
+一个目标检测的项目，整合了keras版本的yolov3，在海底垃圾数据集和SeaShip数据集上完成了训练，计算了mAP指标，包括数格式转换等各种细节的修改
